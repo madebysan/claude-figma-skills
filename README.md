@@ -59,5 +59,5 @@ Generate a token at: Settings > Security > Personal access tokens in Figma.
 
 ## License
 
-[MIT](LICENSE) — [santiagoalonso.com](https://santiagoalonso.com)
+[MIT](LICENSE)
 
