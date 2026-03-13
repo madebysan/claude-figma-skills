@@ -55,7 +55,9 @@ export FIGMA_ACCESS_TOKEN="your-token-here"
 
 Generate a token at: Settings > Security > Personal access tokens in Figma.
 
-**Python 3** — used for batch operations (posting comments, parsing JSON). Standard library only, no pip packages. Included with macOS. On Linux: `sudo apt install python3`.## License
+**Python 3** — used for batch operations (posting comments, parsing JSON). Standard library only, no pip packages. Included with macOS. On Linux: `sudo apt install python3`.
+
+## License
 
 [MIT](LICENSE)
 
